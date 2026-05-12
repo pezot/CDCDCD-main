@@ -1,8 +1,0 @@
-streamlit
-tensorflow==2.15.0
-keras==2.15.0
-numpy
-scikit-learn==1.5.2
-openai
-python-dotenv
-pillow
